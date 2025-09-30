@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/mexiliquid?s=21&t=HF5fFf0Sh7O1cDYxoOZbog",
   "VITE_SEO_SITE_NAME": "mexiliquid",
   "VITE_SEO_SITE_DESCRIPTION": "Escaping borders through mexican finance",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/mexiliquid-2880/",
